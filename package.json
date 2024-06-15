@@ -29,7 +29,9 @@
   "homepage": "https://github.com/dancormier/react-native-swipeout",
   "dependencies": {
     "create-react-class": "^15.6.0",
+    "deprecated-react-native-prop-types": "^5.0.0",
     "prop-types": "^15.5.10",
+    "react-native": "^0.74.2",
     "react-tween-state": "^0.1.5"
   },
   "devDependencies": {
